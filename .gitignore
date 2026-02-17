@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+database/metrics.db
+
+# Node
+frontend/node_modules/
+
+# macOS
+.DS_Store
